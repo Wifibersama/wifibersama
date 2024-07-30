@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WIFI BERSAMA</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #E0F7FA;
+            color: #000000;
+        }
+        header {
+            background-color: #0288D1;
+            color: #FFFFFF;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .card {
+            background-color: #FFFFFF;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .card h2 {
+            color: #0288D1;
+        }
+        .footer {
+            background-color: #0288D1;
+            color: #FFFFFF;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WIFI BERSAMA</h1>
+        <p>Solusi Terbaik untuk Kebutuhan Perwifian Anda</p>
+    </header>
+    <div class="container">
+        <div class="card">
+            <h2>Tentang Kami</h2>
+            <p>WIFI BERSAMA adalah situs web yang bergerak di bidang perwifian, menyediakan berbagai solusi untuk kebutuhan jaringan internet Anda. Kami berkomitmen untuk memberikan layanan terbaik dengan kualitas tinggi dan harga yang kompetitif.</p>
+        </div>
+        <div class="card">
+            <h2>Layanan Kami</h2>
+            <ul>
+                <li>Instalasi Jaringan WIFI</li>
+                <li>Perawatan dan Perbaikan Jaringan</li>
+                <li>Konsultasi dan Desain Jaringan</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h2>Kontak</h2>
+            <p>Untuk informasi lebih lanjut, silakan hubungi kami di:</p>
+            <p>Email: info@wifibersama.com</p>
+            <p>Telepon: 1234-567-890</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 WIFI BERSAMA. All rights reserved.</p>
+    </div>
+</body>
+</html>
